@@ -166,7 +166,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Point.h",
+			"path" : "Vertices.h",
 			"sourceGroupIndex" : 1
 		}
 	],

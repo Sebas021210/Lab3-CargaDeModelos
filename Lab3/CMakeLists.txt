@@ -15,5 +15,5 @@ set(GLM_INCLUDE_DIR "C:/Users/50242/Documents/Universidad/TercerAño/GraficasCom
 include_directories(${SDL2_INCLUDE_DIR} ${GLM_INCLUDE_DIR})
 link_directories(${SDL2_LIB_DIR})
 
-add_executable(Lab3 main.cpp Color.h Point.h)
+add_executable(Lab3 main.cpp Color.h Vertices.h)
 target_link_libraries(Lab3 SDL2main SDL2)
