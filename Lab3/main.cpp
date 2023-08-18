@@ -7,6 +7,8 @@
 #include <SDL.h>
 #include "glm/gtc/matrix_transform.hpp"
 
+
+
 SDL_Window* window = nullptr;
 SDL_Renderer* renderer = nullptr;
 const int SCREEN_WIDTH = 800;
