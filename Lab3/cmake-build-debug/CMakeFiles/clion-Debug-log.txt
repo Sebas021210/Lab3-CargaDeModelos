@@ -1,4 +1,0 @@
-C:\Users\50242\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.9161.40\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/50242/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9161.40/bin/ninja/win/x64/ninja.exe -D CMAKE_INCLUDE_PATH=C:/Users/50242/Documents/Universidad/TercerAño/GraficasComputadora/Lab3-CargaDeModelos/Lab3/glm -G Ninja -S C:\Users\50242\Documents\Universidad\TercerAño\GraficasComputadora\Lab3-CargaDeModelos\Lab3 -B C:\Users\50242\Documents\Universidad\TercerAño\GraficasComputadora\Lab3-CargaDeModelos\Lab3\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/50242/Documents/Universidad/TercerAño/GraficasComputadora/Lab3-CargaDeModelos/Lab3/cmake-build-debug
